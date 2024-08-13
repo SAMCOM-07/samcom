@@ -20,6 +20,7 @@
 
 body{
   background-color: rgba(162, 218, 236, 0.459);
+  position: relative;
 }
 
 /* HEADER */
@@ -174,6 +175,8 @@ body{
   color: var(--hover-color);
   font-size: 18px;
   font-weight: bold;
+  bottom: 0;
+  position: absolute;
 }
 
 
@@ -364,6 +367,8 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
+  bottom: 0;
+  position: absolute;
 }
 .about_foot{
   color: var(--hover-color);
