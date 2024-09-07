@@ -21,6 +21,7 @@
 body{
   background-color: rgba(162, 218, 236, 0.459);
   position: relative;
+  height: 100vh;
 }
 
 /* HEADER */
