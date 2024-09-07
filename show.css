@@ -20,7 +20,6 @@
 
 body{
   background-color: rgba(162, 218, 236, 0.459);
-  position: relative;
   height: 100vh;
 }
 
@@ -171,8 +170,7 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  position: absolute;
-  bottom: 0;
+  margin-botton: -1000px;
 }
 .foot{
   color: var(--hover-color);
