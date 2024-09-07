@@ -20,6 +20,7 @@
 
 body{
   background-color: rgba(162, 218, 236, 0.459);
+  position: relative;
 }
 
 /* HEADER */
@@ -169,6 +170,8 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
+  position: absolute;
+  bottom: 0;
 }
 .foot{
   color: var(--hover-color);
