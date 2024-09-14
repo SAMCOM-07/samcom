@@ -164,7 +164,7 @@ body{
 
 /* FOOTER SECTION */
 
-.footer{
+.footer, .about_footer{
   background-color: var(--red-color);
   height: 100px;
   display: flex;
@@ -172,7 +172,7 @@ body{
   justify-content: center;
   margin-top: 1000px;
 }
-.foot{
+.foot, .about_footer{
   color: var(--hover-color);
   font-size: 18px;
   font-weight: bold;
@@ -359,7 +359,7 @@ body{
   padding: 20px;
   margin: 20px 0px;
 }
-.about_footer{
+/*.about_footer{
   background-color: var(--red-color);
   height: 100px;
   margin-top: 20%;
@@ -371,7 +371,7 @@ body{
   color: var(--hover-color);
   font-size: 18px;
   font-weight: bold;
-}
+}*/
 
 /* ABOUT MEDIA QUERY */
 
